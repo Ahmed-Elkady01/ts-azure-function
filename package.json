@@ -1,5 +1,5 @@
 {
-  "name": "typescript-azure-functions",
+  "name": "syntilio-ts-demo",
   "description": "",
   "version": "0.1.0",
   "scripts": {
@@ -12,10 +12,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "case": "^1.6.1"
-  },
-  "devDependencies": {
-    "@azure/functions": "^1.0.1-beta2",
-    "typescript": "^3.3.3"
+    "@azure/functions": "^3.5.0",
+    "@types/node": "^18.13.0",
+    "typescript": "^4.9.5"
   }
 }
